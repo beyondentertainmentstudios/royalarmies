@@ -1,0 +1,43 @@
+Front End Instructions
+Refer to lastknights.com for an idea of how to create the visual aspect of this web game.
+If you have already tried it out as was requested to better understand the scope of this project then please read on.
+I will be organizing a rough layout, of how I want the games visuals to appear, using wix.
+You will, then, use these layouts to create the official style of the webpage(s).
+I am currently in the process of collecting some artwork from a few sources that will be implemented into the design of the webpage(s).
+The overall layout should be open and not cluttered or overly spacious.  
+Refer to my layout designs as guidelines only.
+I will guide you through to perfection and feel free to give your own advice and opinions as well.
+
+Below is the TASK LIST and will be the same for both Front and Backend programmers but, ofcourse, involving different jobs.
+Once we have completed with one task and we have confirmed that it is working effectively all programmers will be permitted to continue to the next task.
+The tasks may change based on what needs to be done so pay close attention to the task list.
+Thanks again for all of your help!
+
+TASK LIST
+1.) Main Page(s) (Game info, history, news, updates, development team contact info, screenshots, resources, COUNTDOWN TO GAME LAUNCH, etc.)
+2.) Launch Page (Log in/register, introductions) / Choose a country page (Country, history, stats, unit types, etc.)
+3.) Locked/positioned Action Info Bar which includes in-Game info for players such as;
+  Army size and injured/uninjured
+  No. of online players in said country/No. of online players total
+  Captured cities out of total cities
+  Movement points
+  City and Country of player
+Pop-up/extending window revealing, 
+      Base terrain bonuses for country
+      calculated terrain bonuses for units
+      Adjusted terrain bonuses for country and units vs currently warred enemy country
+      Interactive location-to-travel dropdown menu and action button
+3.) In-game Starter Page (gameplay visuals, game buttons, mini-map, java-animated screen city view, etc.)
+4.) Java-animated interactive 2D/3D continental map which will include things such as;
+  Commander Avatar models with few animated movements
+  Animated clouds/smoke/fog
+  Clickable areas on the map resulting in displays of currently accessible information
+  Floating icons pertaining to quests
+  Player-activated location-request markers
+  Player-activated shout-out commands
+  Visual Battle planner markers
+  
+  This list is info-based only and may not be applicable to both backend and frontend.
+  Only work on what you know you are able to do as a frontend programmer.
+  
+  Thanks and I look forward to seeing the results of your work!
