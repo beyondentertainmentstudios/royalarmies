@@ -4,12 +4,24 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <link rel="stylesheet" type="text/css" href="normalize.css" />
-    <link rel="stylesheet" type="text/css" href="styles.css" />
+<!--    an example how to call js to html page-->
+    <script src="<?= base_url("third_party/files/jquery-3.4.1.js"); ?>"></script>
+    <script src="<?= base_url("third_party/files/jquery-ui-1.12.1/jquery-ui.min.js"); ?>"></script>
+   
+<!--    an example of how to call css to html page-->
+    <!-- Custom CSS -->
+    <link href="<?= base_url("third_party/css/styles.css"); ?>" rel="stylesheet">
+    <link href="<?= base_url("third_party/css/normalize.css"); ?>" rel="stylesheet">
     <title>Royal Armies</title>
+
   </head>
   <body>
-    <div class="wrapper">
+    
+          
+<!--    an example of how to call files to html page-->
+    <img src="<?= base_url("third_party/assets/1040465096__cgULmU2J.jpg"); ?>" alt="homepage" style="float:right" class="" />
+      
+      <div class="wrapper">
       <header>
         <div id="alert-bar">
           <p>
